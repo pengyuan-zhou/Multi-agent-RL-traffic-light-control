@@ -18,8 +18,8 @@ For more theoretical details such as optima proof, system design, and performanc
   doi={10.1109/TITS.2020.3035841}}
 ```
 
-A quick Demo:
-[![Video](https://i9.ytimg.com/vi/p2sMtN_mW8s/maxresdefault.jpg?time=1608339000000&sqp=CLic9f4F&rs=AOn4CLDlfAcq4ONYwic9lK3Bx7MDsLbq1A)](https://youtu.be/p2sMtN_mW8s) 
+# Demo:
+https://youtu.be/p2sMtN_mW8s
 
 
 Original instructions, please refer to [Flow](https://flow-project.github.io/) 
